@@ -1,0 +1,20 @@
+{
+  // ...
+  "workbench.colorCustomizations": {
+    // ...
+    "editor.lineHighlightBorder": "#9fced11f",
+    "editor.lineHighlightBackground": "#1073cf2d",
+
+    // Or for specific VS Code themes:
+    "[Default Dark+]": {
+      // ...
+      // "editor.lineHighlightBorder": "#9fced11f"
+      // "editor.lineHighlightBackground": "#1073cf2d",
+    },
+    "[Abyss]": {
+      // ...
+      // "editor.lineHighlightBorder": "#9fced11f",
+      // "editor.lineHighlightBackground": "#1073cf2d"
+    }
+  }
+}

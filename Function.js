@@ -29,6 +29,7 @@ document.querySelectorAll(".allPaths").forEach((e) => {
   });
   e.addEventListener("click", function () {
     e.style.fill = "pink";
+    e.style.transiton = "2s"
     // getUser(e.id);
   });
 });

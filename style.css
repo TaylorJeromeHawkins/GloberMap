@@ -3,13 +3,19 @@
   padding: 0;
 }
 
+/* *,
+*:before,
+*:after {
+  transition: all 2s ease;
+} */
+
 body {
   margin: 0;
   height: 100vh;
   /* display: flex; */
   justify-content: center;
   align-items: center;
-  background: #244264; /*background */
+  background: #3b414b; /*background */
   overflow: hidden;
 }
 
@@ -19,13 +25,14 @@ svg {
 }
 
 svg path {
-  fill: #656e29; /*Map Color */
+  fill: #48742f; /*Map Color */
   cursor: pointer;
 }
 
 svg path:hover {
   /* display: block; */
-  fill: rgba(255, 255, 0, 0.5); /*Hover*/
+  fill: rgba(255, 255, 0, 0.5);/*Hover*/
+  transition: all 2s ease;
 }
 
 .output {
@@ -57,7 +64,7 @@ hr {
   width: fit-content;
   opacity: 0;
   border-radius: 5px;
-  border: 2px solid pink;
+  border: 2px solid rgb(0, 0, 0);
   padding: 5px;
   font-size: 1.5rem;
 }

@@ -3,7 +3,7 @@
 Map being designed for research purposes.
 
 Map will have features to include country/region based information: 
--stock exhnages
+-stock exchanges
 -history
 -wiki links
 -timezones

@@ -3,19 +3,13 @@
   padding: 0;
 }
 
-/* *,
-*:before,
-*:after {
-  transition: all 2s ease;
-} */
-
 body {
   margin: 0;
   height: 100vh;
   /* display: flex; */
   justify-content: center;
   align-items: center;
-  background: #3b414b; /*background */
+  background: #244264; /*background */
   overflow: hidden;
 }
 
@@ -25,14 +19,13 @@ svg {
 }
 
 svg path {
-  fill: #48742f; /*Map Color */
+  fill: #656e29; /*Map Color */
   cursor: pointer;
 }
 
 svg path:hover {
   /* display: block; */
-  fill: rgba(255, 255, 0, 0.5);/*Hover*/
-  transition: all 2s ease;
+  fill: rgba(255, 255, 0, 0.5); /*Hover*/
 }
 
 .output {
@@ -64,7 +57,7 @@ hr {
   width: fit-content;
   opacity: 0;
   border-radius: 5px;
-  border: 2px solid rgb(0, 0, 0);
+  border: 2px solid pink;
   padding: 5px;
   font-size: 1.5rem;
 }

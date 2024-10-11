@@ -13,3 +13,5 @@ Map will have features to include country/region based information:
 -Seasonal information
 -climate and geographical information (elevation etc)
 -....
+
+![image](https://github.com/user-attachments/assets/597b91ed-1d4c-4a64-8e55-d7f77b06f565)

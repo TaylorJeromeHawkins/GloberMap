@@ -14,4 +14,4 @@ Map will have features to include country/region based information:
 -climate and geographical information (elevation etc)
 -....
 
-![image](https://github.com/user-attachments/assets/88f9d88b-2721-4da2-88ea-a0d23ba13ae0)
+![image](https://github.com/user-attachments/assets/b66a0659-3463-486f-8539-ba543e93f454)
